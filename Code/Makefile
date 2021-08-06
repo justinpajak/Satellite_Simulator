@@ -25,6 +25,8 @@ $(OBJ)/Project.o: $(SRC)/Project.cpp $(INC)/Project.h
 # Make all
 all: Project
 
+initialize:
+	mkdir obj exe
 
 # Make clean
 clean :
