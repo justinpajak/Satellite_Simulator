@@ -1,4 +1,4 @@
-Steps to run our code:
+# Satellite Constellation Simulator
 
 1. Extract all source code on a Unix-based device with C++11
 2. Make sure g++ is installed
